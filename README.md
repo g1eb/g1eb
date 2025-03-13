@@ -1,4 +1,4 @@
-# Hi there, I'm Gleb! 🧑‍💻 Sr Research Engineer + Data Science Instructor 👨‍🏫
+# Hi there, I'm Gleb! 🧑‍💻 Senior Research Engineer and Data Science Instructor 👨‍🏫
 
 ## ✨ About Me
 - 🔭 I’m currently working in Data Science

@@ -1,6 +1,7 @@
-# Hi there, I'm Gleb! 🧑‍💻 Senior Research Engineer and Data Science Instructor 👨‍🏫
+## Hi there, I'm Gleb! 👋
+### 🧑‍💻 Senior Research Engineer & Data Science Instructor 👨‍🏫
 
-## ✨ About Me
+### ✨ About Me
 - 🔭 I’m currently working in Data Science
 - 💬 Ask me about Data Visualizations
 - 📫 How to reach me: mail@g1eb.com
@@ -23,5 +24,5 @@
 
 <!-- GitHub Stats Visualizations -->
 <!-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=g1eb&show_icons=true) -->
-![g1eb's stats](https://github-readme-stats.vercel.app/api?username=g1eb&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![g1eb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g1eb&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+![g1eb's stats](https://github-readme-stats.vercel.app/api?username=g1eb&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![g1eb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g1eb&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
